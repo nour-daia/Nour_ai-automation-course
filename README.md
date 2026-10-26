@@ -2,33 +2,34 @@
 
 > A professional portfolio documenting my journey in designing, building, testing, and improving AI-powered solutions.
 
-**AI Automation | AI-Powered Solutions | Workflow Automation | AI Agents**
+**Software Engineering | Full-Stack Development | API Integration | AI Workflow Automation with n8n | AI Agents**
 
 ---
 
-## 👩‍💻 About Me
+## 💻 About Me
 
-Hi, I'm **[Your Name]**.
+Hi, I'm **Eng. Nour Abudaia**.
 
-I am a **[Your Professional Title]** interested in building AI-powered solutions that solve real-world problems and create meaningful impact.
+I am a **Software Engineer and Full-Stack Developer** (React.js | Next.js | PHP) with hands-on experience in API integration, WordPress, and AI workflow automation with **n8n**. I build AI-powered solutions that solve real-world problems and create meaningful impact.
 
-Through this portfolio, I document the systems and solutions I design and build throughout my AI Automation journey.
+Through this portfolio, I document the systems and solutions I design and build throughout my AI Automation journey, combining my full-stack engineering background with AI-powered workflows.
 
 ### My Focus
 
-- AI Automation
-- AI-Powered Solutions
-- Workflow Automation
-- AI Applications
+- AI Automation & Workflow Automation (n8n)
+- AI-Powered Solutions & AI Applications
 - AI Agents
+- Full-Stack Web Development (React.js, Next.js, PHP)
+- API Integration
+- WordPress Development
 - Human-Centered Technology
 
 ### Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn]
-- 🌐 Portfolio: [Your Portfolio]
-- 📧 Email: [Your Email]
-- 🐙 GitHub: [Your GitHub]
+- 💼 LinkedIn: [Nour Abudaia](https://www.linkedin.com/in/nour-abudaia-840b4b287/)
+- 🌐 Portfolio: [my-website-psi-coral-55.vercel.app](https://my-website-psi-coral-55.vercel.app/#Home)
+- 📧 Email: [nour2262004@gmail.com](mailto:nour2262004@gmail.com)
+- 🐙 GitHub: [nour-daia](https://github.com/nour-daia)
 
 ---
 
@@ -73,7 +74,7 @@ The projects demonstrate my progression from understanding real-world work to de
 [Short description]
 
 **Tools:**  
-[Tools]
+[Tools, e.g. n8n, React.js, Next.js, APIs]
 
 **My role:**  
 [What I designed/built]
@@ -308,15 +309,23 @@ I learned how to choose the right solution for a real-world problem by consideri
 
 # 🛠️ Technical Toolkit
 
-Tools and technologies I worked with throughout the course:
+Tools and technologies I work with:
 
 ### AI & Automation
 
 - AI Automation
+- **n8n** (AI Workflow Automation)
 - LLMs
 - AI Agents
-- Workflow Automation
 - Prompt Engineering
+- Zapier
+
+### Full-Stack Development
+
+- **Frontend:** React.js, Next.js, HTML, CSS, JavaScript
+- **Backend:** PHP
+- **CMS:** WordPress
+- **Deployment:** Vercel
 
 ### AI-Powered Application Building
 
@@ -324,17 +333,15 @@ Tools and technologies I worked with throughout the course:
 - Lovable
 - Supabase
 
-### Automation & Integration
+### Integration
 
-- Zapier
-- APIs
+- REST APIs
 - Webhooks
-- External Services
+- External Services & Third-Party Integrations
 
 ### Other Tools
 
-- GitHub
-- [Add your tools]
+- Git & GitHub
 
 ---
 
@@ -397,7 +404,7 @@ It is about:
 
 This repository will continue to grow beyond the course.
 
-Future projects, experiments, and AI-powered solutions will be added here as I continue developing my skills.
+Future projects, experiments, and AI-powered solutions will be added here as I continue developing my skills, combining full-stack development with AI automation.
 
 ### Future Projects
 
@@ -430,10 +437,10 @@ The projects are presented as documented engineering work, including the problem
 
 ---
 
-## 👩‍💻 Author
+## 💻 Author
 
-**[Your Name]**
+**Eng. Nour Abudaia**
 
-AI Automation | AI-Powered Solutions | Human-Centered Innovation
+Software Engineering | Full-Stack Developer (React.js | Next.js | PHP) | API Integration | WordPress | AI Workflow Automation with n8n
 
-[LinkedIn] · [GitHub] · [Portfolio]
+[LinkedIn](https://www.linkedin.com/in/nour-abudaia-840b4b287/) · [GitHub](https://github.com/nour-daia) · [Portfolio](https://my-website-psi-coral-55.vercel.app/#Home) · [Email](mailto:nour2262004@gmail.com)
